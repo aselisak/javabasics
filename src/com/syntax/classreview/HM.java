@@ -29,7 +29,7 @@ public class HM {
 		                System.out.println("Girl");
 		            }
 
-		        }
+		        } input.close();
 		    }
 		
 		

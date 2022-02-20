@@ -14,7 +14,7 @@ public class ReviewInLoops {
 		int y=5;
 		do {
 			System.out.println("hello");
-		}while (x<10);
+		}while (y<10);
 		
 		
 		

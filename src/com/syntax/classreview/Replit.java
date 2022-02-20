@@ -35,7 +35,7 @@ public class Replit {
 		}
 		
 		
-		
+		scan.close();
 		
 		
 		

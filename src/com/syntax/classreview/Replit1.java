@@ -22,6 +22,8 @@ public class Replit1 {
         		 System.out.println("I will go to the park");
         	 }else 
         		 System.out.println("I stay home");
+         
+         scan.close();
                }
         	 
         	

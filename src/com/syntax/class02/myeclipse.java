@@ -1,6 +1,6 @@
 package com.syntax.class02;
 
-public class Arithmetics {
+public class arithmetics {
 
 	public static void main(String[] args) {
 	
